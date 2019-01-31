@@ -20,3 +20,11 @@ Note : Running cutadapt on python3 would significantly increase the speed of the
 Folder runscript contains just the base script and slurm header script for reference.
 
 All input files are in an accessible folders in protected locations.
+
+Versions of softwares used:
+
+Hisat2    - V 2.1.0
+Cutadpat  - V 1.18
+Samtools  - V 1.5
+Fastqc    - V 0.11.8
+Stringtie - V 1.3.5
